@@ -31,19 +31,7 @@ function arrAdder(arr) {
   }
 
   sentence += "\n";
-  //   return sentence.trim();
-  //   arr.map((val, idx) => {
-  //     arr.map((item, i) => {
-  //       sentence += arr[i][idx];
-  //     });
-  //     sentence += " ";
-  //   });
-  // for (const i in arr) {
-  //   for (const j in arr) {
-  //     sentence += arr[j][i];
-  //   }
-  //   sentence += " ";
-  // }
+  return sentence.trim();
 }
 
 arrAdder(arr);
