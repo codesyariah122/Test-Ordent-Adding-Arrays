@@ -9,7 +9,6 @@
     "start": "nodemon --experimental-json-modules index.js"
   },
   "dependencies": {
-    "describe": "^1.2.0",
     "global": "^4.4.0",
     "nodemon": "^2.0.20"
   },

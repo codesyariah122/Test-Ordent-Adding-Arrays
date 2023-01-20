@@ -67,13 +67,6 @@ debug@^3.2.7:
   dependencies:
     ms "^2.1.1"
 
-describe@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/describe/-/describe-1.2.0.tgz#3b42efa6dca1aa2445ef6d15c19854de583711c0"
-  integrity sha512-GcSTMsJD6d39QuE1Zor671dlY5pDY9IIVLHAidXLrTx6BmMQOyCKEX1btTI781+zA3GQYRcUITi+YoUjFB06UA==
-  dependencies:
-    string-color ">= 0.8.0"
-
 dom-walk@^0.1.0:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/dom-walk/-/dom-walk-0.1.2.tgz#0c548bef048f4d1f2a97249002236060daa3fd84"
@@ -225,11 +218,6 @@ simple-update-notifier@^1.0.7:
   integrity sha512-VpsrsJSUcJEseSbMHkrsrAVSdvVS5I96Qo1QAQ4FxQ9wXFcB+pjj7FB7/us9+GcgfW4ziHtYMc1J0PLczb55mg==
   dependencies:
     semver "~7.0.0"
-
-"string-color@>= 0.8.0":
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/string-color/-/string-color-0.8.0.tgz#1e674c8295ce29ddd9778b6e4cb3aa5e75448403"
-  integrity sha512-h1LLin9OfvTdEqmt1F+iUOnRuVloVy2kcaJ1LdJa1+DZxXrtKTfsq643HEG8i3uGOgrsiyaxAfiDudZN+FHcvg==
 
 supports-color@^5.5.0:
   version "5.5.0"
